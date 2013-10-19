@@ -8,3 +8,6 @@ def cuboid_volume(l,b,h):
 
 print cuboid_volume(1,1,1)
 print cuboid_surface_are(1,1,1)
+
+print cuboid_volume(1,3,1)
+print cuboid_surface_are(3,1,1)
