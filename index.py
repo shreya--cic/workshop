@@ -5,4 +5,6 @@ def cuboid_surface_area(l,b,h):
 def cuboid_volume(l,b,h):
 	volume = l*b*h
 	return volume
+
 print cuboid_volume(1,1,1)
+print cuboid_surface_are(1,1,1)
