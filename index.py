@@ -1,5 +1,6 @@
 def main():
-    print('menu: Press')
+    print('menu :')
+    print('Press')
     print ('1 for cube volume')
     print ('2 for cube surface area')
     print ('3 for cuboid volume')
