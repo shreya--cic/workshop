@@ -1,0 +1,18 @@
+GIT Workshop:
+
+git config --global user.name"yourname"
+git config --global user.email email id
+
+git init( to convert a directory into git repository)
+
+git status
+git add filename
+git commit -am 'any message'
+
+git reset HEAD^ ( to change back one step)
+git checkout -- filename (for file to be changed)
+
+git remote add origin url_of_the_repository (for git users to connect to github server/to connect to your repository on github)
+
+
+git pull origin master( to add any repository file to your home directory)
